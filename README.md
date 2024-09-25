@@ -1,3 +1,5 @@
+#SQL PROJECT
+
 Overview
 This repository contains a SQL database simulating a restaurant ordering system similar to Zomato. The database includes several tables that track user signups, sales transactions, and product details, allowing for various analyses of user behavior and spending patterns.
 
